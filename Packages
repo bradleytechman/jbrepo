@@ -1,0 +1,29 @@
+Package: com.bradleytm.removeamazonai
+Name: RemoveAmazonAI
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Removes the useless AI button in the amazon app taskbar - compatible with Fiona still
+Maintainer: bradleytechman
+Author: bradleytechman
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debians/com.bradleytm.removeamazonai_1.0_iphoneos-arm
+Size: 5834
+MD5sum: 231329f48f3755cc2dfebe7662016942
+SHA1: 6d97277a09b3c504e0eeb6749265008ce2b6a041
+SHA256: 4a1341208d3616fd8bda7f9f51c8de764d27d3d2735d30e061e071acffc973d9
+
+Package: com.bradleytm.removeamazonai
+Name: RemoveAmazonAI
+Version: 1.0
+Architecture: iphoneos-arm64
+Description: Removes the useless AI button in the amazon app taskbar - compatible with Fiona still
+Maintainer: bradleytechman
+Author: bradleytechman
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debians/com.bradleytm.removeamazonai_1.0_iphoneos-arm64
+Size: 5834
+MD5sum: 5d0899297a58304a142e5d825e2535c3
+SHA1: 842a52bc31b7a3c41e1ac621e6a52e7c84da15b7
+SHA256: 3beb1dc85cf247f1ba147862e65e5e8794b3bf39f150a4c319cdb93fffd41dd0
