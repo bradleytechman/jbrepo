@@ -1,30 +1,30 @@
 Package: com.bradleytm.removeamazonai
-Version: 1.1.0
-Architecture: iphoneos-arm
+Version: 1.0
+Architecture: iphoneos-arm64
 Maintainer: bradleytechman
-Installed-Size: 176
+Installed-Size: 172
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/com.bradleytm.removeamazonai_1.1.0_iphoneos-arm.deb
-Size: 12112
-MD5sum: af9a8df865f1a6ca15115d78c4777149
-SHA1: 7933bd210ce663940a5d33e5de7c965a393c7b60
-SHA256: b834442a3a6d0e80ac0a92379d026371aeff894239edca9ba82d2a3755596df1
+Filename: ./debs/com.bradleytm.removeamazonai_1.0_iphoneos-arm64.deb
+Size: 5880
+MD5sum: 5d0899297a58304a142e5d825e2535c3
+SHA1: 842a52bc31b7a3c41e1ac621e6a52e7c84da15b7
+SHA256: 3beb1dc85cf247f1ba147862e65e5e8794b3bf39f150a4c319cdb93fffd41dd0
 Section: Tweaks
 Description: Removes the useless AI button in the amazon app taskbar
 Author: bradleytechman
 Name: RemoveAmazonAI
 
 Package: com.bradleytm.removeamazonai
-Version: 1.1.0
-Architecture: iphoneos-arm64
+Version: 1.0
+Architecture: iphoneos-arm
 Maintainer: bradleytechman
-Installed-Size: 176
+Installed-Size: 172
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/com.bradleytm.removeamazonai_1.1.0_iphoneos-arm64.deb
-Size: 12196
-MD5sum: cdff6e75676c522218a32c558e1f711e
-SHA1: c1136e57bbdb37242197577cce1fcf2f1c23d8f7
-SHA256: e0319041255009e125039787698b27275ddbb5bf5925f41d99af7143c0c6e7ef
+Filename: ./debs/com.bradleytm.removeamazonai_1.0_iphoneos-arm.deb
+Size: 5834
+MD5sum: 231329f48f3755cc2dfebe7662016942
+SHA1: 6d97277a09b3c504e0eeb6749265008ce2b6a041
+SHA256: 4a1341208d3616fd8bda7f9f51c8de764d27d3d2735d30e061e071acffc973d9
 Section: Tweaks
 Description: Removes the useless AI button in the amazon app taskbar
 Author: bradleytechman
