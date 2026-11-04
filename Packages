@@ -62,3 +62,22 @@ Description: Removes the useless AI button in the amazon app taskbar
 Author: bradleytechman
 Name: RemoveAmazonAI
 
+Package: net.angelxwind.mikoto
+Version: 4.0.3
+Architecture: iphoneos-arm
+Maintainer: Karen/あけみ (angelXwind) <karen@angelxwind.net>
+Installed-Size: 15548
+Depends: firmware (>= 5.0), mobilesubstrate, preferenceloader (>= 2.2.0-1), net.angelxwind.karenprefs (>= 1.4), net.angelxwind.karenlocalizer
+Conflicts: com.xcxiao.simplelsios10
+Filename: ./debs/nodelete-net.angelxwind.mikoto.deb
+Size: 11582804
+MD5sum: e1f49254a62ed949fd6d7d44c0b01043
+SHA1: 5717d7348bd1a23cc7bb94f659704409a21eeb8a
+SHA256: ea31dd47acfa2c397664ffb19e8bcc130d356d37fad49ccd6c45ebb32f06de69
+Section: Tweaks
+Homepage: https://cydia.angelxwind.net/
+Description: Comprehensive iOS System/App Store App customisation suite
+Author: Karen/あけみ (angelXwind) <karen@angelxwind.net>
+Depiction: https://cydia.angelxwind.net/?page/net.angelxwind.mikoto
+Icon: file:///Library/KarenRepoIcons/net.angelxwind.mikoto.png
+Name: mikoto
